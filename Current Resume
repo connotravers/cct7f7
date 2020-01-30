@@ -1,0 +1,28 @@
+Connor Travers
+314-803-1166
+
+Languages
+Proficient: Java, PHP, HTML/CSS, Python
+Some Experience: R, JavaScript, (My)SQL
+Limited Experience: Haskell
+
+Work and Leadership Experience
+University of Missouri – BIPS  January 2019-present
+Bioinformatics and Plants Sciences program Fellow
+	Paired with a plant sciences student to create a bridge of understanding between the two fields through the completion of a research project guided by mentors. Includes weekly meetings exploring relevant bioinformatic methods, data analysis, and general biological/computer science discussion. 
+University of Missouri – Bilyeu Microbiology Lab
+
+Student Technical Assistant - Summer 2019
+	Trained in a biology lab, completed lots of genotyping tests, worked soybean research fields, learned basic structure of soybean breeding community. 
+
+Phi Sigma Pi Delta Xi Chapter Eboard Member - Dec 2019-present
+  Serving as parliamentarian for the 2020 calendar year. Includes leading chapter voting, maintaining bylaws, serving as a leade and resource in and outside of chapter
+
+Projects
+Sequence Guide Dog (Jan 2019-Jul 2019): Using SQL, MySQL, HTML, and PHP, created an in-browser genome browser tool which lets users search the Glycine max genome by sequence version, chromosome, base pair range. Able to compare genes in different cultivars, annotation versions. Different genes have different descriptions and locations in different annotation versions/cultivars, and some may not be present at all in certain versions.
+
+Isoline Cloning Project (Aug 2019-Present): Using 50K SNP Soybean Data (SNP: Single Nucleotide Polymorphism) genetic markers spanning across the genome, used for checking differences between plants) acquired from the USDA Soybean Isoline Collection (consisting of ~470 50K datasets) from the 1940’s-70’s. Many desirable traits were documented from the phenotypes (physical traits) of the plants analyzed, but the physical location of the genes associated with these phenotypes are unknown. The goal of this project is to compare the 50K datasets to their near-identical parents, and then to each other, in order to come up with the tightest interval possible for the potential location of the gene. 
+Using: Python with NumPy and Matplotlib. Pulls data from three tables and creates a DataFrame for calculations and comparisons.  
+
+Computer Science Courses Taken or Currently Enrolled at Mizzou
+CMP_SC1000, 1050, 2050, 2270, 2830, 3050, 3280, 3330, 3380, 4050, 4320, 4450, 4520, 4750
