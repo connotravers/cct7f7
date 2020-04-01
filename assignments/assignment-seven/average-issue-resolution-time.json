@@ -1,0 +1,427 @@
+[
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "avg_issue_resolution_time": "70 days 10:49:55.746269"
+    },
+    {
+        "repo_id": 27713,
+        "repo_name": "copy-number-analysis",
+        "avg_issue_resolution_time": "168 days 20:25:29.666667"
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "avg_issue_resolution_time": "333 days 32:39:43.152173"
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "avg_issue_resolution_time": "195 days 12:53:57.9375"
+    },
+    {
+        "repo_id": 27726,
+        "repo_name": "auxiliary_docker_containers",
+        "avg_issue_resolution_time": "02:05:40"
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "avg_issue_resolution_time": "80 days 17:41:17.23913"
+    },
+    {
+        "repo_id": 27730,
+        "repo_name": "coursehelper",
+        "avg_issue_resolution_time": "91 days 29:00:17.75"
+    },
+    {
+        "repo_id": 27731,
+        "repo_name": "mirror",
+        "avg_issue_resolution_time": "36 days 20:07:44.571429"
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "avg_issue_resolution_time": "50 days 32:03:19.068182"
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "avg_issue_resolution_time": "137 days 24:56:50.767442"
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "avg_issue_resolution_time": "202 days 18:46:52.606061"
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "avg_issue_resolution_time": "430 days 28:37:56.125"
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "avg_issue_resolution_time": "26 days 17:58:09.511111"
+    },
+    {
+        "repo_id": 27747,
+        "repo_name": "BiocContributions",
+        "avg_issue_resolution_time": "1 day 24:35:05.25"
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "avg_issue_resolution_time": "288 days 14:10:14.85"
+    },
+    {
+        "repo_id": 27751,
+        "repo_name": "BioconductorMeta",
+        "avg_issue_resolution_time": "110 days 13:00:04"
+    },
+    {
+        "repo_id": 27753,
+        "repo_name": "bioc-cm",
+        "avg_issue_resolution_time": "1 day 08:42:50.5"
+    },
+    {
+        "repo_id": 27756,
+        "repo_name": "BiocIntro",
+        "avg_issue_resolution_time": "10:50:16"
+    },
+    {
+        "repo_id": 27762,
+        "repo_name": "issue_tracker_github",
+        "avg_issue_resolution_time": "15:19:12"
+    },
+    {
+        "repo_id": 27764,
+        "repo_name": "Contributions",
+        "avg_issue_resolution_time": "38 days 18:26:49.567587"
+    },
+    {
+        "repo_id": 27766,
+        "repo_name": "BioconductorAnnotationPipeline",
+        "avg_issue_resolution_time": "128 days 19:00:40"
+    },
+    {
+        "repo_id": 27773,
+        "repo_name": "GenomicDataCommons",
+        "avg_issue_resolution_time": "61 days 13:56:03.981481"
+    },
+    {
+        "repo_id": 27781,
+        "repo_name": "Organism.dplyr",
+        "avg_issue_resolution_time": "1 day 20:01:05.25"
+    },
+    {
+        "repo_id": 27787,
+        "repo_name": "bioc_git_transition",
+        "avg_issue_resolution_time": "45 days 20:47:00.485714"
+    },
+    {
+        "repo_id": 27788,
+        "repo_name": "SOUNDBoard",
+        "avg_issue_resolution_time": "9 days 12:24:04.333333"
+    },
+    {
+        "repo_id": 27789,
+        "repo_name": "AnnotationFilter",
+        "avg_issue_resolution_time": "44 days 12:22:59.5"
+    },
+    {
+        "repo_id": 27790,
+        "repo_name": "CSAMA-1",
+        "avg_issue_resolution_time": "21 days 18:36:54.833333"
+    },
+    {
+        "repo_id": 27792,
+        "repo_name": "BiocFileCache",
+        "avg_issue_resolution_time": "24 days 11:19:24.266667"
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "avg_issue_resolution_time": "76 days 18:43:36.166667"
+    },
+    {
+        "repo_id": 27794,
+        "repo_name": "RaggedExperiment",
+        "avg_issue_resolution_time": "33 days 17:27:25.285715"
+    },
+    {
+        "repo_id": 27796,
+        "repo_name": "MultiOmicQC",
+        "avg_issue_resolution_time": "6 days 01:13:26"
+    },
+    {
+        "repo_id": 27798,
+        "repo_name": "EuroBioc2017",
+        "avg_issue_resolution_time": "111 days 21:14:20.5"
+    },
+    {
+        "repo_id": 27801,
+        "repo_name": "BiocGenerics",
+        "avg_issue_resolution_time": "06:56:04"
+    },
+    {
+        "repo_id": 27803,
+        "repo_name": "AnnotationHub",
+        "avg_issue_resolution_time": "8 days 19:15:46"
+    },
+    {
+        "repo_id": 27804,
+        "repo_name": "AnnotationHubData",
+        "avg_issue_resolution_time": "1 day 18:46:58"
+    },
+    {
+        "repo_id": 27805,
+        "repo_name": "DelayedArray",
+        "avg_issue_resolution_time": "73 days 16:03:48.657895"
+    },
+    {
+        "repo_id": 27806,
+        "repo_name": "HDF5Array",
+        "avg_issue_resolution_time": "41 days 16:46:11.588235"
+    },
+    {
+        "repo_id": 27808,
+        "repo_name": "Biostrings",
+        "avg_issue_resolution_time": "40 days 27:03:09.611111"
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "avg_issue_resolution_time": "24 days 30:19:25.121951"
+    },
+    {
+        "repo_id": 27810,
+        "repo_name": "BSgenome",
+        "avg_issue_resolution_time": "141 days 06:11:09.75"
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "avg_issue_resolution_time": "39 days 19:23:41.428572"
+    },
+    {
+        "repo_id": 27812,
+        "repo_name": "ExperimentHub",
+        "avg_issue_resolution_time": "9 days 29:12:01.5"
+    },
+    {
+        "repo_id": 27815,
+        "repo_name": "annotate",
+        "avg_issue_resolution_time": "00:08:06"
+    },
+    {
+        "repo_id": 27816,
+        "repo_name": "AnnotationDbi",
+        "avg_issue_resolution_time": "4 days 00:55:16"
+    },
+    {
+        "repo_id": 27817,
+        "repo_name": "AnnotationForge",
+        "avg_issue_resolution_time": "20 days 13:42:23.333333"
+    },
+    {
+        "repo_id": 27818,
+        "repo_name": "Biobase",
+        "avg_issue_resolution_time": "2 days 11:42:37.5"
+    },
+    {
+        "repo_id": 27826,
+        "repo_name": "ensemblVEP",
+        "avg_issue_resolution_time": "7 days 15:31:02.75"
+    },
+    {
+        "repo_id": 27827,
+        "repo_name": "genefilter",
+        "avg_issue_resolution_time": "1 day 22:28:46"
+    },
+    {
+        "repo_id": 27830,
+        "repo_name": "GenomeInfoDb",
+        "avg_issue_resolution_time": "10 days 15:39:43.6"
+    },
+    {
+        "repo_id": 27831,
+        "repo_name": "GenomicAlignments",
+        "avg_issue_resolution_time": "9 days 26:00:20.5"
+    },
+    {
+        "repo_id": 27832,
+        "repo_name": "GenomicFeatures",
+        "avg_issue_resolution_time": "83 days 09:23:22.571429"
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "avg_issue_resolution_time": "82 days 16:28:54.857143"
+    },
+    {
+        "repo_id": 27838,
+        "repo_name": "GSEABase",
+        "avg_issue_resolution_time": "00:14:31"
+    },
+    {
+        "repo_id": 27841,
+        "repo_name": "KEGGREST",
+        "avg_issue_resolution_time": "22:18:58"
+    },
+    {
+        "repo_id": 27844,
+        "repo_name": "RBGL",
+        "avg_issue_resolution_time": "03:14:32"
+    },
+    {
+        "repo_id": 27846,
+        "repo_name": "Rhtslib",
+        "avg_issue_resolution_time": "65 days 27:08:16.25"
+    },
+    {
+        "repo_id": 27847,
+        "repo_name": "Rsamtools",
+        "avg_issue_resolution_time": "1 day 26:07:02.888889"
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "avg_issue_resolution_time": "81 days 34:32:12.764706"
+    },
+    {
+        "repo_id": 27849,
+        "repo_name": "UniProt.ws",
+        "avg_issue_resolution_time": "204 days 12:28:54.4"
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "avg_issue_resolution_time": "50 days 23:22:56.055556"
+    },
+    {
+        "repo_id": 27851,
+        "repo_name": "zlibbioc",
+        "avg_issue_resolution_time": "4 days 04:25:39"
+    },
+    {
+        "repo_id": 27853,
+        "repo_name": "TENxBrainData",
+        "avg_issue_resolution_time": "8 days 03:31:20.666667"
+    },
+    {
+        "repo_id": 27854,
+        "repo_name": "GenomeInfoDbData",
+        "avg_issue_resolution_time": "5 days 07:03:44"
+    },
+    {
+        "repo_id": 27855,
+        "repo_name": "VariantExperiment",
+        "avg_issue_resolution_time": "163 days 08:57:28.666667"
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "avg_issue_resolution_time": "30 days 29:56:09.736842"
+    },
+    {
+        "repo_id": 27858,
+        "repo_name": "TENxBrainAnalysis",
+        "avg_issue_resolution_time": "00:29:03"
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "avg_issue_resolution_time": "29 days 28:27:31"
+    },
+    {
+        "repo_id": 27862,
+        "repo_name": "LoomExperiment",
+        "avg_issue_resolution_time": "27 days 13:20:24.888889"
+    },
+    {
+        "repo_id": 27866,
+        "repo_name": "BiocInstaller",
+        "avg_issue_resolution_time": "5 days 16:27:46"
+    },
+    {
+        "repo_id": 27870,
+        "repo_name": "BiocWorkshops",
+        "avg_issue_resolution_time": "33 days 18:44:39.352941"
+    },
+    {
+        "repo_id": 27871,
+        "repo_name": "HCABrowser",
+        "avg_issue_resolution_time": "17 days 08:03:51"
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "avg_issue_resolution_time": "8 days 24:05:23.833333"
+    },
+    {
+        "repo_id": 27883,
+        "repo_name": "HCAMatrixBrowser",
+        "avg_issue_resolution_time": "8 days 03:30:37"
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "avg_issue_resolution_time": "39 days 24:32:16"
+    },
+    {
+        "repo_id": 27888,
+        "repo_name": "bioconductor_full",
+        "avg_issue_resolution_time": "5 days 18:53:33.1"
+    },
+    {
+        "repo_id": 27889,
+        "repo_name": "OrchestratingSingleCellAnalysis",
+        "avg_issue_resolution_time": "6 days 15:33:09.666667"
+    },
+    {
+        "repo_id": 27891,
+        "repo_name": "SQLDataFrame",
+        "avg_issue_resolution_time": "13:52:31.5"
+    },
+    {
+        "repo_id": 27892,
+        "repo_name": "EuroBioc2019",
+        "avg_issue_resolution_time": "02:51:16.333333"
+    },
+    {
+        "repo_id": 27894,
+        "repo_name": "BiocWorkshops2019",
+        "avg_issue_resolution_time": "17 days 13:14:20.5"
+    },
+    {
+        "repo_id": 27895,
+        "repo_name": "workshopbuilder",
+        "avg_issue_resolution_time": "15:43:32"
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "avg_issue_resolution_time": "7 days 27:26:16.5"
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "avg_issue_resolution_time": "12 days 15:43:27.214286"
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "avg_issue_resolution_time": "40 days 22:34:29.5"
+    },
+    {
+        "repo_id": 27907,
+        "repo_name": "bioconductor_docker",
+        "avg_issue_resolution_time": "6 days 15:41:48"
+    },
+    {
+        "repo_id": 27909,
+        "repo_name": "BiocAddins",
+        "avg_issue_resolution_time": "11:36:32.666667"
+    }
+]

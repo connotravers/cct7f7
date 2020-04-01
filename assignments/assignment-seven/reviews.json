@@ -1,0 +1,3470 @@
+[
+    {
+        "repo_id": 27709,
+        "repo_name": "BiocGithubHelp",
+        "date": "2012-10-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27709,
+        "repo_name": "BiocGithubHelp",
+        "date": "2012-10-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27710,
+        "repo_name": "RGalaxy-RNAseq-workflow",
+        "date": "2012-10-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2012-11-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2012-11-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2012-12-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2012-12-05T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2013-05-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2013-05-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2013-08-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2013-10-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2013-10-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2013-11-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2014-02-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2015-03-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2015-04-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2016-06-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2017-10-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2018-03-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2018-05-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2018-05-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2018-08-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2018-10-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2018-11-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2019-02-07T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27711,
+        "repo_name": "BiocParallel",
+        "date": "2019-12-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27713,
+        "repo_name": "copy-number-analysis",
+        "date": "2014-04-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2015-09-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2017-06-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2017-07-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2017-07-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2018-02-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2018-04-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2018-05-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2018-05-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27718,
+        "repo_name": "support.bioconductor.org",
+        "date": "2018-06-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-05-06T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-06-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-09-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-09-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-10-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-10-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-10-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-10-30T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-10-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-11-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-11-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2014-11-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-02-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-02-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-03-24T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-04-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-04-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-05-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-07-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-07-13T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2015-07-15T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2016-06-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2016-06-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2017-01-26T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2017-02-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2017-07-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27719,
+        "repo_name": "GoogleGenomics",
+        "date": "2017-09-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27722,
+        "repo_name": "LearnBioconductor",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27726,
+        "repo_name": "auxiliary_docker_containers",
+        "date": "2015-10-05T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27726,
+        "repo_name": "auxiliary_docker_containers",
+        "date": "2015-12-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27726,
+        "repo_name": "auxiliary_docker_containers",
+        "date": "2015-12-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27726,
+        "repo_name": "auxiliary_docker_containers",
+        "date": "2015-12-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27726,
+        "repo_name": "auxiliary_docker_containers",
+        "date": "2016-01-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2016-07-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2016-08-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2016-08-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2016-09-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2016-10-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2016-11-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-01-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-08T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-16T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-05-21T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-06-26T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-06-27T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2017-07-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2018-11-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-01-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-02-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-03-31T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-04-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-04-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-04-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-04-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-05-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-05-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-08-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-08-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-11-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-12-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27728,
+        "repo_name": "bioc_docker",
+        "date": "2019-12-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27729,
+        "repo_name": "UseBioconductor",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27730,
+        "repo_name": "coursehelper",
+        "date": "2016-01-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27730,
+        "repo_name": "coursehelper",
+        "date": "2019-11-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27730,
+        "repo_name": "coursehelper",
+        "date": "2019-11-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27730,
+        "repo_name": "coursehelper",
+        "date": "2019-12-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27730,
+        "repo_name": "coursehelper",
+        "date": "2020-02-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27730,
+        "repo_name": "coursehelper",
+        "date": "2020-02-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27731,
+        "repo_name": "mirror",
+        "date": "2015-05-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27731,
+        "repo_name": "mirror",
+        "date": "2016-04-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27731,
+        "repo_name": "mirror",
+        "date": "2016-05-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2018-07-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2018-08-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2018-08-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2018-10-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2018-10-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2019-03-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2019-04-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2019-05-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2019-07-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2019-07-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2019-07-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2019-09-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27733,
+        "repo_name": "BiocManager",
+        "date": "2020-03-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27734,
+        "repo_name": "CSAMA2015",
+        "date": "2015-06-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27734,
+        "repo_name": "CSAMA2015",
+        "date": "2015-06-15T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "date": "2015-08-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "date": "2015-09-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "date": "2016-09-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "date": "2018-05-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "date": "2018-06-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "date": "2018-06-27T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27735,
+        "repo_name": "BiocCheck",
+        "date": "2018-07-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-10-05T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-10-06T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-10-23T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-11-11T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-11-16T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-11-17T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-11-18T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-11-30T00:00:00.000Z",
+        "pull_requests": 6
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-12-08T00:00:00.000Z",
+        "pull_requests": 6
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-12-15T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2015-12-30T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2016-01-07T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2016-05-12T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2016-10-12T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2017-06-19T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2018-04-26T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2018-10-29T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27736,
+        "repo_name": "BBS",
+        "date": "2019-05-04T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2015-10-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2015-11-03T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2015-11-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2016-01-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2016-01-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2016-05-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2016-06-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27737,
+        "repo_name": "bioconductor.org_archive",
+        "date": "2016-12-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27738,
+        "repo_name": "useR2015",
+        "date": "2015-06-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27738,
+        "repo_name": "useR2015",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27739,
+        "repo_name": "BiocUruguay2015",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27740,
+        "repo_name": "EfficientScalableLab",
+        "date": "2015-07-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27745,
+        "repo_name": "ENAR2016",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2018-06-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2018-10-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2018-10-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2019-05-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2019-06-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2019-11-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2020-01-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27746,
+        "repo_name": "BiocStyle",
+        "date": "2020-03-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-11-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-11-23T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-11-24T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-11-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-12-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-12-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-12-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-12-18T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-12-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2015-12-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2016-01-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27748,
+        "repo_name": "packagebuilder",
+        "date": "2016-10-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27749,
+        "repo_name": "BiocAsiaPacific2015",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27751,
+        "repo_name": "BioconductorMeta",
+        "date": "2016-01-20T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27751,
+        "repo_name": "BioconductorMeta",
+        "date": "2016-07-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27753,
+        "repo_name": "bioc-cm",
+        "date": "2015-10-23T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27753,
+        "repo_name": "bioc-cm",
+        "date": "2015-10-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27753,
+        "repo_name": "bioc-cm",
+        "date": "2015-12-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27754,
+        "repo_name": "DESCRIPTION_hook",
+        "date": "2015-10-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27756,
+        "repo_name": "BiocIntro",
+        "date": "2016-01-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27756,
+        "repo_name": "BiocIntro",
+        "date": "2016-05-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27756,
+        "repo_name": "BiocIntro",
+        "date": "2016-05-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27756,
+        "repo_name": "BiocIntro",
+        "date": "2017-01-09T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27757,
+        "repo_name": "spb_history",
+        "date": "2015-12-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27757,
+        "repo_name": "spb_history",
+        "date": "2015-12-24T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27758,
+        "repo_name": "bioc-common-python",
+        "date": "2016-01-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27761,
+        "repo_name": "ServiceMonitoring",
+        "date": "2016-01-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27762,
+        "repo_name": "issue_tracker_github",
+        "date": "2019-05-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27762,
+        "repo_name": "issue_tracker_github",
+        "date": "2019-05-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27762,
+        "repo_name": "issue_tracker_github",
+        "date": "2019-11-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27762,
+        "repo_name": "issue_tracker_github",
+        "date": "2019-12-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27764,
+        "repo_name": "Contributions",
+        "date": "2017-07-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27764,
+        "repo_name": "Contributions",
+        "date": "2017-09-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27764,
+        "repo_name": "Contributions",
+        "date": "2018-07-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27764,
+        "repo_name": "Contributions",
+        "date": "2018-10-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27770,
+        "repo_name": "CBIIT",
+        "date": "2018-07-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27773,
+        "repo_name": "GenomicDataCommons",
+        "date": "2016-06-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27773,
+        "repo_name": "GenomicDataCommons",
+        "date": "2016-07-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27773,
+        "repo_name": "GenomicDataCommons",
+        "date": "2016-09-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27773,
+        "repo_name": "GenomicDataCommons",
+        "date": "2017-03-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27774,
+        "repo_name": "CSAMA2016",
+        "date": "2016-07-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27774,
+        "repo_name": "CSAMA2016",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27775,
+        "repo_name": "BioC2016Introduction",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27779,
+        "repo_name": "TenStepReproducible",
+        "date": "2016-06-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27780,
+        "repo_name": "spbtest3",
+        "date": "2016-09-27T00:00:00.000Z",
+        "pull_requests": 8
+    },
+    {
+        "repo_id": 27780,
+        "repo_name": "spbtest3",
+        "date": "2016-10-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27780,
+        "repo_name": "spbtest3",
+        "date": "2016-10-13T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27780,
+        "repo_name": "spbtest3",
+        "date": "2016-10-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27780,
+        "repo_name": "spbtest3",
+        "date": "2016-11-16T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27780,
+        "repo_name": "spbtest3",
+        "date": "2017-02-02T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27781,
+        "repo_name": "Organism.dplyr",
+        "date": "2016-12-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27787,
+        "repo_name": "bioc_git_transition",
+        "date": "2017-03-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27787,
+        "repo_name": "bioc_git_transition",
+        "date": "2017-05-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27787,
+        "repo_name": "bioc_git_transition",
+        "date": "2017-05-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27787,
+        "repo_name": "bioc_git_transition",
+        "date": "2017-06-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27787,
+        "repo_name": "bioc_git_transition",
+        "date": "2017-07-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27787,
+        "repo_name": "bioc_git_transition",
+        "date": "2018-10-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27789,
+        "repo_name": "AnnotationFilter",
+        "date": "2017-06-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27789,
+        "repo_name": "AnnotationFilter",
+        "date": "2017-09-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27789,
+        "repo_name": "AnnotationFilter",
+        "date": "2017-11-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27789,
+        "repo_name": "AnnotationFilter",
+        "date": "2018-06-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27790,
+        "repo_name": "CSAMA-1",
+        "date": "2017-06-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27790,
+        "repo_name": "CSAMA-1",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27790,
+        "repo_name": "CSAMA-1",
+        "date": "2019-07-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27792,
+        "repo_name": "BiocFileCache",
+        "date": "2018-02-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27792,
+        "repo_name": "BiocFileCache",
+        "date": "2019-11-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27792,
+        "repo_name": "BiocFileCache",
+        "date": "2019-11-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27792,
+        "repo_name": "BiocFileCache",
+        "date": "2019-11-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-03-03T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-03-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-03-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-05-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-05-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-06-09T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-07-06T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-07-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-07-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-08-02T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-08-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-08-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-10-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-10-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-11-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-11-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-11-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2017-11-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-04-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-04-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-05-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-06-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-06-21T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-06-22T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-06-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-06-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-06-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-07-05T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-07-09T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-07-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-07-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-08-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-08-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-09-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-10-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-10-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-10-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-10-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-11-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2018-12-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-01-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-01-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-02-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-03-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-03-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-04-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-04-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-06-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-06-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-07-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-08-02T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-12-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2019-12-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2020-01-03T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2020-01-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2020-01-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27793,
+        "repo_name": "BiocStickers",
+        "date": "2020-02-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27794,
+        "repo_name": "RaggedExperiment",
+        "date": "2019-02-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27798,
+        "repo_name": "EuroBioc2017",
+        "date": "2017-07-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27801,
+        "repo_name": "BiocGenerics",
+        "date": "2017-09-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27803,
+        "repo_name": "AnnotationHub",
+        "date": "2018-03-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27803,
+        "repo_name": "AnnotationHub",
+        "date": "2019-04-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27803,
+        "repo_name": "AnnotationHub",
+        "date": "2019-05-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27803,
+        "repo_name": "AnnotationHub",
+        "date": "2019-05-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27804,
+        "repo_name": "AnnotationHubData",
+        "date": "2019-10-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27805,
+        "repo_name": "DelayedArray",
+        "date": "2017-11-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27805,
+        "repo_name": "DelayedArray",
+        "date": "2018-03-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27805,
+        "repo_name": "DelayedArray",
+        "date": "2018-03-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27805,
+        "repo_name": "DelayedArray",
+        "date": "2018-11-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27805,
+        "repo_name": "DelayedArray",
+        "date": "2019-12-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27805,
+        "repo_name": "DelayedArray",
+        "date": "2019-12-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27806,
+        "repo_name": "HDF5Array",
+        "date": "2017-12-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27806,
+        "repo_name": "HDF5Array",
+        "date": "2018-05-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27806,
+        "repo_name": "HDF5Array",
+        "date": "2018-06-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27806,
+        "repo_name": "HDF5Array",
+        "date": "2019-09-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27806,
+        "repo_name": "HDF5Array",
+        "date": "2019-12-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27808,
+        "repo_name": "Biostrings",
+        "date": "2018-01-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27808,
+        "repo_name": "Biostrings",
+        "date": "2019-03-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27808,
+        "repo_name": "Biostrings",
+        "date": "2019-03-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27808,
+        "repo_name": "Biostrings",
+        "date": "2019-07-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27808,
+        "repo_name": "Biostrings",
+        "date": "2020-01-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2018-01-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2018-11-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2019-04-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2019-05-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2019-06-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2019-06-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2019-09-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2019-11-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27809,
+        "repo_name": "S4Vectors",
+        "date": "2020-02-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27810,
+        "repo_name": "BSgenome",
+        "date": "2020-02-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2018-02-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2018-02-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2019-02-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2019-04-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2019-05-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2019-07-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2019-08-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27811,
+        "repo_name": "IRanges",
+        "date": "2019-09-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27812,
+        "repo_name": "ExperimentHub",
+        "date": "2018-09-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27812,
+        "repo_name": "ExperimentHub",
+        "date": "2019-01-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27812,
+        "repo_name": "ExperimentHub",
+        "date": "2019-11-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27812,
+        "repo_name": "ExperimentHub",
+        "date": "2019-11-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27814,
+        "repo_name": "ShortRead",
+        "date": "2019-09-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27814,
+        "repo_name": "ShortRead",
+        "date": "2020-01-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27817,
+        "repo_name": "AnnotationForge",
+        "date": "2018-10-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27818,
+        "repo_name": "Biobase",
+        "date": "2019-09-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27818,
+        "repo_name": "Biobase",
+        "date": "2019-12-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27820,
+        "repo_name": "biocViews",
+        "date": "2018-07-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27820,
+        "repo_name": "biocViews",
+        "date": "2019-05-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27822,
+        "repo_name": "Category",
+        "date": "2019-11-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27827,
+        "repo_name": "genefilter",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27830,
+        "repo_name": "GenomeInfoDb",
+        "date": "2018-12-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27831,
+        "repo_name": "GenomicAlignments",
+        "date": "2019-08-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27832,
+        "repo_name": "GenomicFeatures",
+        "date": "2020-01-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27833,
+        "repo_name": "GenomicFiles",
+        "date": "2018-08-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27833,
+        "repo_name": "GenomicFiles",
+        "date": "2018-10-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "date": "2018-01-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "date": "2018-02-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "date": "2018-07-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "date": "2019-06-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "date": "2020-02-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "date": "2020-02-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27834,
+        "repo_name": "GenomicRanges",
+        "date": "2020-03-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27838,
+        "repo_name": "GSEABase",
+        "date": "2018-08-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27844,
+        "repo_name": "RBGL",
+        "date": "2019-09-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27845,
+        "repo_name": "RGalaxy",
+        "date": "2018-02-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27846,
+        "repo_name": "Rhtslib",
+        "date": "2019-05-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27846,
+        "repo_name": "Rhtslib",
+        "date": "2019-06-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27846,
+        "repo_name": "Rhtslib",
+        "date": "2019-09-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27846,
+        "repo_name": "Rhtslib",
+        "date": "2020-02-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27847,
+        "repo_name": "Rsamtools",
+        "date": "2017-10-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2017-11-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-01-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-01-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-01-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-04-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-04-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-05-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-05-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-10-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2018-11-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27848,
+        "repo_name": "SummarizedExperiment",
+        "date": "2019-12-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2018-05-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2018-08-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2018-09-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2018-10-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2018-10-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2018-11-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2018-12-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27850,
+        "repo_name": "VariantAnnotation",
+        "date": "2019-02-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27852,
+        "repo_name": "AWSParallel",
+        "date": "2017-11-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27853,
+        "repo_name": "TENxBrainData",
+        "date": "2017-10-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27853,
+        "repo_name": "TENxBrainData",
+        "date": "2017-10-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27853,
+        "repo_name": "TENxBrainData",
+        "date": "2018-09-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27853,
+        "repo_name": "TENxBrainData",
+        "date": "2019-08-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27856,
+        "repo_name": "MatrixGenerics",
+        "date": "2019-11-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27856,
+        "repo_name": "MatrixGenerics",
+        "date": "2020-02-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2017-12-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-05-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-08-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-10-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-11-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-11-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-11-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2018-11-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-03-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-04-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-05-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-05-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-06-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-07-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-07-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-07-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-08-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-09-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-11-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-11-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2019-12-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-01-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-01-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-01-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-02-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-02-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-02-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-02-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-02-24T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-02-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-02-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27857,
+        "repo_name": "bioconductor.org",
+        "date": "2020-03-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27858,
+        "repo_name": "TENxBrainAnalysis",
+        "date": "2017-12-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-02-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-02-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-03-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-05-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-05-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-06-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-06-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-06-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-06-26T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-06-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-07-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27861,
+        "repo_name": "BioC2018",
+        "date": "2018-07-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27862,
+        "repo_name": "LoomExperiment",
+        "date": "2019-09-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27862,
+        "repo_name": "LoomExperiment",
+        "date": "2020-02-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27865,
+        "repo_name": "BiocVersion",
+        "date": "2019-05-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27866,
+        "repo_name": "BiocInstaller",
+        "date": "2018-08-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27870,
+        "repo_name": "BiocWorkshops",
+        "date": "2018-06-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27870,
+        "repo_name": "BiocWorkshops",
+        "date": "2018-07-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27870,
+        "repo_name": "BiocWorkshops",
+        "date": "2018-09-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27870,
+        "repo_name": "BiocWorkshops",
+        "date": "2019-01-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27871,
+        "repo_name": "HCABrowser",
+        "date": "2019-02-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27876,
+        "repo_name": "HubServer",
+        "date": "2020-02-24T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27878,
+        "repo_name": "meetups",
+        "date": "2020-03-10T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27879,
+        "repo_name": "EuroBioc2018",
+        "date": "2018-10-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2018-10-19T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2018-11-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2018-11-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2018-11-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2018-12-17T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-01-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-01-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-01-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-02-01T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-02-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-03-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-04-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-04-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-04-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-04-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-05-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-05-30T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-06-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-06-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-06-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-06-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-06-23T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-06-24T00:00:00.000Z",
+        "pull_requests": 7
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-06-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-11-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-11-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2019-12-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27882,
+        "repo_name": "BioC2019",
+        "date": "2020-02-25T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27884,
+        "repo_name": "BiocAsia",
+        "date": "2018-11-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-01-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-02-14T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-02-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-02-27T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-04-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-06-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-06-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-07-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-08-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27885,
+        "repo_name": "AnVIL",
+        "date": "2019-10-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27888,
+        "repo_name": "bioconductor_full",
+        "date": "2019-04-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27888,
+        "repo_name": "bioconductor_full",
+        "date": "2019-10-31T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27888,
+        "repo_name": "bioconductor_full",
+        "date": "2019-11-14T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27888,
+        "repo_name": "bioconductor_full",
+        "date": "2019-12-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27889,
+        "repo_name": "OrchestratingSingleCellAnalysis",
+        "date": "2019-03-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27889,
+        "repo_name": "OrchestratingSingleCellAnalysis",
+        "date": "2019-03-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27889,
+        "repo_name": "OrchestratingSingleCellAnalysis",
+        "date": "2019-06-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27889,
+        "repo_name": "OrchestratingSingleCellAnalysis",
+        "date": "2019-06-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27889,
+        "repo_name": "OrchestratingSingleCellAnalysis",
+        "date": "2019-10-02T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27890,
+        "repo_name": "AnVIL_rapiclient",
+        "date": "2019-04-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27890,
+        "repo_name": "AnVIL_rapiclient",
+        "date": "2019-06-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27892,
+        "repo_name": "EuroBioc2019",
+        "date": "2019-09-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27892,
+        "repo_name": "EuroBioc2019",
+        "date": "2019-10-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27892,
+        "repo_name": "EuroBioc2019",
+        "date": "2019-11-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27892,
+        "repo_name": "EuroBioc2019",
+        "date": "2019-11-29T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27892,
+        "repo_name": "EuroBioc2019",
+        "date": "2019-12-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27892,
+        "repo_name": "EuroBioc2019",
+        "date": "2019-12-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27893,
+        "repo_name": "ZarrExperiment",
+        "date": "2019-12-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27894,
+        "repo_name": "BiocWorkshops2019",
+        "date": "2019-05-24T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-07-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-08-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-09-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-09-15T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-09-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-10-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-10-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-10-12T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-10-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-10-26T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2019-12-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2020-01-13T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2020-01-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2020-02-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2020-02-05T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2020-02-06T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2020-02-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27898,
+        "repo_name": "OSCABase",
+        "date": "2020-03-11T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-10-16T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-10-17T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-10-19T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-10-27T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-10-28T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-11-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-11-08T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-11-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-11-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-03T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-07T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-11T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-12T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-21T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2019-12-25T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-01-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-01-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-01-23T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-01-24T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-01-25T00:00:00.000Z",
+        "pull_requests": 4
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-02-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-02-10T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-02-18T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-02-19T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-02-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-02-27T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27903,
+        "repo_name": "BioC2020",
+        "date": "2020-03-04T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2019-11-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2019-12-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2020-01-09T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2020-01-10T00:00:00.000Z",
+        "pull_requests": 3
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2020-02-15T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2020-02-16T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2020-02-22T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27904,
+        "repo_name": "BiocAsia2020",
+        "date": "2020-03-20T00:00:00.000Z",
+        "pull_requests": 1
+    },
+    {
+        "repo_id": 27907,
+        "repo_name": "bioconductor_docker",
+        "date": "2020-01-09T00:00:00.000Z",
+        "pull_requests": 2
+    },
+    {
+        "repo_id": 27910,
+        "repo_name": "BiocSet",
+        "date": "2019-12-11T00:00:00.000Z",
+        "pull_requests": 1
+    }
+]
